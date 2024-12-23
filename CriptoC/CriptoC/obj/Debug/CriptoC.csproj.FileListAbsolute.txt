@@ -1,0 +1,16 @@
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\obj\Debug\CriptoC.csprojResolveAssemblyReference.cache
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\obj\Debug\CriptoC.MainForm.resources
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\obj\Debug\CriptoC.csproj.GenerateResource.Cache
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\bin\Debug\CriptoC.exe.config
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\bin\Debug\CriptoC.exe
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\bin\Debug\CriptoC.pdb
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\obj\Debug\CriptoC.exe
+C:\Users\marco\Documents\SharpDevelop Projects\CriptoC\CriptoC\obj\Debug\CriptoC.pdb
+E:\CriptoC\CriptoC\obj\Debug\CriptoC.csprojResolveAssemblyReference.cache
+E:\CriptoC\CriptoC\obj\Debug\CriptoC.MainForm.resources
+E:\CriptoC\CriptoC\obj\Debug\CriptoC.csproj.GenerateResource.Cache
+E:\CriptoC\CriptoC\obj\Debug\CriptoC.exe
+E:\CriptoC\CriptoC\obj\Debug\CriptoC.pdb
+E:\CriptoC\CriptoC\bin\Debug\CriptoC.exe.config
+E:\CriptoC\CriptoC\bin\Debug\CriptoC.exe
+E:\CriptoC\CriptoC\bin\Debug\CriptoC.pdb
